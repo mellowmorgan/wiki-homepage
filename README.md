@@ -16,7 +16,7 @@ A webpage attempting to look like Wikipedia homepage.
 ## Setup/Installation Requirements
 * Clone this repository to your desktop
 * Navigate to the top level of the directory
-* Open index.html in your browser
+* Double-click index.html file or type "open index.html" in terminal to open webpage in browser.
 
 ## Known Bugs
 * No links, functionality really.
